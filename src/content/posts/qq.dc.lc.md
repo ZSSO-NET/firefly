@@ -6,7 +6,7 @@ image: https://img.zsso.net/file/OQQK2VmM.webp
 tags: [QQ代挂, QQ等级加速, 云端挂机, 实用工具]
 category: 网络服务
 draft: false
-pinned: tuer
+pinned: true
 ---
 
 # QQ云代挂：专业QQ等级代挂，24小时云端自动加速
