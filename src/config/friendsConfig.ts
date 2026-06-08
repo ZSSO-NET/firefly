@@ -32,11 +32,11 @@ export const friendsConfig: FriendLink[] = [
 		enabled: true, // 是否启用
 	},
 	{
-		title: "Firefly Docs",
-		imgurl: "https://docs-firefly.cuteleaf.cn/logo.png",
-		desc: "Firefly主题模板文档",
-		siteurl: "https://docs-firefly.cuteleaf.cn",
-		tags: ["Docs"],
+		title: "番茄主理人",
+		imgurl: "https://q1.qlogo.cn/g?b=qq&nk=20447289&s=640",
+		desc: "坐而言不如起而行.",
+		siteurl: "https://fqzlr.com/",
+		tags: ["Blog"],
 		weight: 9,
 		enabled: true,
 	},
@@ -47,7 +47,7 @@ export const friendsConfig: FriendLink[] = [
 		siteurl: "https://github.com/withastro/astro",
 		tags: ["Framework"],
 		weight: 8,
-		enabled: true,
+		enabled: false,
 	},
 ];
 
