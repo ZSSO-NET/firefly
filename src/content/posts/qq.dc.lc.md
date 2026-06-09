@@ -55,11 +55,11 @@ pinned: true
 
 ## 豪华版功能预览
 
-![豪华版功能列表](https://img.zsso.net/file/OQQK2VmM.webp)
+![豪华版功能列表](https://tc-new.z.wiki/autoupload/dANRQ0hVCph7P_2JR9vLAA/20260609/DPgM/537X351/ZSSO11780049235700753.png)
 
 ## 云端菜单展示
 
-![云端菜单界面](https://img.zsso.net/file/Y3HhdOvZ.webp)
+![云端菜单界面](https://tc-new.z.wiki/autoupload/dANRQ0hVCph7P_2JR9vLAA/20260609/dToN/623X385/ZSSO11780049296074559.png)
 
 ## 联系与支持
 
